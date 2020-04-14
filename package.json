@@ -14,7 +14,7 @@
     "cors": "^2.8.4",
     "express": "^4.15.5",
     "helmet": "^3.8.2",
-    "mongoose": "^4.11.13",
+    "mongoose": "^5.7.5",
     "mongoose-restful-crud": "^0.5.0",
     "morgan": "^1.9.0"
   },
